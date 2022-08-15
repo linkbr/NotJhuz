@@ -49,9 +49,10 @@ ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
+> git clone https://github.com/BrunoSobrino/Mystic-termux
+> cd Mystic-termux
 > yarn install 
+> npm install
 > npm update
 > npm start
 ```
